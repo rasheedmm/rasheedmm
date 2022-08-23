@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1200/1*e3jNfHQGTe7f7ptGpa74yA.png)](https://linktr.ee/reshimm)
 <h1 align="center">Hi 👋, I'm Rasheed Maliyekkal</h1>
 <h3 align="center">A passionate android native and flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="left" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheedmm&label=Profile%20views&color=0e75b6&style=flat" alt="rasheedmm" /> </p>
 
